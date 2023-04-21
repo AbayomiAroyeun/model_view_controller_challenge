@@ -1,0 +1,31 @@
+.container{
+    height: 10cm;
+    width: 20cm;
+    display: flexbox;
+    background-color: blue;
+    margin-left: 1.5cm;
+    margin-top: 5cm;
+    
+
+   
+}
+.container2{
+    height: 2cm;
+    width: 19.5cm;
+    background-color: rgb(175, 42, 42);
+    margin-left: 10px;
+    padding-top: 2ch;
+}
+#Tec{
+    
+    border-radius: 2cm;
+    border: 1cm;
+    background-color: aliceblue;
+    width: 4.5cm;
+}
+.home_btn{
+display: flex;
+background-color: aliceblue;
+width: fit-content;
+}
+
