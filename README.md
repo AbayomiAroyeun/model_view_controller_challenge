@@ -54,27 +54,36 @@ User(s) who prefares to keep the Realator App on thier devices fro easy accesses
 
 ## Built With (Required Pckages)
 - Dynamic HTML, CSS
--
--
--
-## API Usage
--
+- bcrypt: "^5.1.0",
+- connect-session-sequelize": "^7.1.6",
+- dotenv": "^16.0.3",
+- express": "^4.18.2",
+- express-handlebars": "^7.0.7",
+- express-session": "^1.17.3",
+- mysql2": "^3.2.3",
+- sequelize": "^6.31.0",
+
+## Support
+- Class tutor,
+- TA,
+- Youtube videos,
+- Online research
 
 # Future Development
 It is strongly believe the App can always get better, hence contribution for this is expected. The team members can be contacted with their github pages addresses;
-- Zamorano-Torres,Jose :https://github.com/jzamorano20
-- Castro,Ferny         :https://github.com/FernyCastro8
-- Floersch,Ryan        :https://github.com/RyanmFloersch
+
 - Aroyeun,Abayomi      :https://github.com/AbayomiAroyeun
 
 
-## What WE Learnt
+## What I Learnt
 - Briging up a creative funtioning from the scratch was a good experience........
 ### Continued Development:
 1. Keep learning as a Full Stack Developer
 2. .
 
 ## Challenges
+- Change of new using new tools like handlebars and bcrypt
+
 
 ## License & Copyright ©
 - MIT License :
@@ -100,11 +109,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
   
-## Authors
-- Zamorano-Torres,Jose
-- Floersch,Ryan
-- Castro,Ferny
+## Author
+
 - Aroyeun,Abayomi
-
-
-## Screenshots:

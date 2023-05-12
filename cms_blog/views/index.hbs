@@ -1,0 +1,10 @@
+<form id="course-form"> 
+    <input id="course-input" type="text" placeholder="Enter the course name">
+    <button>Submit</button>
+</form>
+
+<div class="courses">
+    {{each courses}}
+    <h3>{{title}}</h3>
+    {{/each}}
+</div>
